@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ubaidxmughal
+- 👀 I’m interested in software development, fitness, and exploring new technologies.
+- 🌱 I’m currently learning Flutter and improving my skills in mobile app development.
+- 💞️ I’m looking to collaborate on Flutter projects, web development (Next.js, React, Node.js, Express, MongoDB), and open-source contributions.
+- 📫 How to reach me: You can contact me via email at ubaidwaseem9@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mubaidwaseem/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love going to the gym and staying fit. Additionally, I have a background in web development, including technologies like HTML, CSS, and JavaScript.
